@@ -61,7 +61,7 @@
         app:layout_constraintTop_toBottomOf="@+id/numberText2">
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/button1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="sum"
@@ -75,14 +75,14 @@
             android:text="-" />
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/button3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="dvide"
             android:text="/" />
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/button4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="multiply"
